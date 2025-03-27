@@ -1,0 +1,17 @@
+{    
+    "name": "Fee",    
+    "symbol": "FEE",    
+    "description": "Please put a coin description here.",    
+    "image": "https://mcn-coin.s3.eu-north-1.amazonaws.com/logo.png",
+    "external_url": "https://mycoinwebsite.com",    
+    "attributes": [
+       {"trait_type": "Type", "value": "Meme Coin"},      
+       {"trait_type": "Blockchain", "value": "Solana"}    
+    ],    
+    "properties": { "files": [{
+         "uri": "https://mcn-coin.s3.eu-north-1.amazonaws.com/logo.png",
+         "type": "image/png"
+       }],      
+       "category": "image"    
+    }
+}
